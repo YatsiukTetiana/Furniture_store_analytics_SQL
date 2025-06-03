@@ -30,4 +30,4 @@ The data-driven analysis will allow for comparing activity between countries, id
 - is_unsubscribed - whether the subscriber has unsubscribed.
 
 ### Looker Studio Visualization
-[Link to Dashboard] (https://lookerstudio.google.com/reporting/7e6fcfad-794b-46cd-a3eb-3c4d7b410c41)
+[Link to Dashboard](https://lookerstudio.google.com/reporting/7e6fcfad-794b-46cd-a3eb-3c4d7b410c41)
