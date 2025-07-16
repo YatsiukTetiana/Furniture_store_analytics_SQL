@@ -5,7 +5,9 @@ This project is ***based on an e-commerce database*** hosted in BigQuery. The da
 
 📌 The ***primary goal*** is to gather and analyze data to understand the dynamics of account creation, user engagement with emails (sending, opening, clicking), and evaluate user behavior across key attributes such as email sending interval, account verification status, and subscription preferences.
 
-The data-driven analysis will allow for comparing activity between countries, identifying key markets, and segmenting users by various parameters.
+The data-driven analysis will enable the comparison of activity between countries, the identification of key markets, and the segmentation of users by various parameters.
+
+***Tools & Technologies:*** SQL, BigQuery, Looker Studio
 
 ### Structure of the dataset:
 - date;
