@@ -10,8 +10,8 @@ The data-driven analysis will enable the comparison of activity between countrie
 ***Tools & Technologies:*** SQL, BigQuery, Looker Studio
 
 ### Structure of the dataset:
-- date;
-- country;
+- `date`;
+- `country`;
 - send_interval - sending interval;
 - is_verified - whether the account is verified or not;
 - is_unsubscribed - whether the subscriber has unsubscribed;
